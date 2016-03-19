@@ -114,6 +114,7 @@ Make your own API files that contains *keyword* such as `html`, `jquery`, `myglo
     "twitter-bootstrap3-sass-variables": false,
     "underscorejs": false,
     "react": false,
+    "ionic": false,
 
     // Your own completions?
     // ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/sbc-api-my-angularjs.sublime-settings
